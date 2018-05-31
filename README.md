@@ -5,10 +5,6 @@ got to learn our tools. We use Git and GitHub to coordinate what we'll write in
 our daily paper every day. You'll need to get together a small staff to coordinate
 our next publication.
 
-If you're in a city with a competing newspapers try to work as fast as possible to
-get these tasks done, merge everything, .ZIP up your issue and Slack it out to
-the streets!
-
 Well, get to it!
 
 ## Assigning Roles
@@ -61,7 +57,4 @@ thing? Geez, I don't even know what any of those species are.
 
 # Publishing
 
-Once you are all finished with the required tasks and have written the paper to
-your satisfaction right-click on the `new-issue` directory, and choose
-"Compress 'new-issues'" to create a .ZIP file. send out the zipped up copy of
-your new issue to your local Slack channel to show off your publication.
+Make a pull request with what you've done.
